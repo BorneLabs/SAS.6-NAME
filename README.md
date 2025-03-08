@@ -1,4 +1,7 @@
 # SAS.6-NAME
+
+![NAME GIF](https://github.com/BorneLabs/SAS.6-NAME/blob/main/Assets/Media/Images/NAME.jpg)
+
   # [ Neural Agent Modelling Engine ] Mobile App Prototype Documentation
 
 ## 1. Introduction
