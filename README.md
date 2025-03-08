@@ -1,5 +1,5 @@
 # SAS.6-NAME
-# Neural Agent Modelling Engine  Mobile App Prototype Documentation
+  # [ Neural Agent Modelling Engine ] Mobile App Prototype Documentation
 
 ## 1. Introduction
 
