@@ -1,6 +1,14 @@
 # SAS.6-NAME
 
-![NAME GIF](https://github.com/BorneLabs/SAS.6-NAME/blob/main/Assets/Media/Images/NAME.jpg)
+<table style="width: 100%;">
+  <tr>
+    <td>
+      <img src="https://github.com/BorneLabs/SAS.6-NAME/blob/main/Assets/Media/Images/NAME.jpg" alt="NAME GIF" style="width:100%; height:auto;">
+    </td>
+  </tr>
+</table>
+
+
 
   # [ Neural Agent Modelling Engine ] Mobile App Prototype Documentation
 
