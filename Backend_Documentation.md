@@ -1,4 +1,3 @@
-```markdown
 # NAME Backend for Hybrid AI Agent Prototype
 
 Welcome to the NAME backend repository by Bornelabs. This project implements the backend for our NAME mobile app prototype, which lets users create their own AI agents by uploading documents and chatting with a custom-named agent.
@@ -286,6 +285,4 @@ We welcome contributions from the community! Please fork this repository, make y
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Happy coding,  
 **The Bornelabs Team**
-```
