@@ -14,7 +14,7 @@
 
 ## 1. Introduction
 
-At Bornelabs,we are developing NAME—a mobile app that lets users create their own AI agents by uploading documents and chatting with the agent they’ve named. For our first prototype, we’ve chosen a hybrid approach. This means we’re using a Kodular-built app for the user interface and a cloud-based backend to handle the heavy AI processing using a Retrieval-Augmented Generation (RAG) method.
+At Bornelabs,we are developing NAME—a mobile app that lets users create their own AI agents by uploading documents and chatting with the agent they’ve named.
 
 Our project’s purpose is to validate the idea quickly by offloading complex AI processing to the backend while keeping the mobile interface simple and user-friendly. We plan to enhance the app further with fine-tuning capabilities later on.
 
